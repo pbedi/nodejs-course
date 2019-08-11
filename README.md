@@ -7,3 +7,5 @@ Master Node JS, build REST APIs with Node.js, GraphQL APIs, add Authentication, 
 02-module
 
 01-assignment
+
+030-debugger
