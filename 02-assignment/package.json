@@ -1,0 +1,31 @@
+{
+  "name": "02-assignment",
+  "version": "1.0.0",
+  "description": "Express assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "start-server": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbedi/nodejs-course.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Philip Bedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbedi/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/pbedi/nodejs-course#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
