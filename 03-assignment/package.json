@@ -1,0 +1,30 @@
+{
+  "name": "dynamic-content-assignment",
+  "version": "1.0.0",
+  "description": "Dyname Content Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbedi/nodejs-course.git"
+  },
+  "keywords": [
+    "EJS",
+    "Pug",
+    "Handlebars"
+  ],
+  "author": "Philip Bedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbedi/nodejs-course/issues"
+  },
+  "homepage": "https://github.com/pbedi/nodejs-course#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
