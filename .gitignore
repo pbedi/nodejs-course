@@ -62,4 +62,5 @@ typings/
 
 # mac deleted 
 .DS_Store
-
+package-lock.json
+# npm config set package-lock false
