@@ -31,3 +31,5 @@ app.js - routes
 03 - assinment - dynamic content
 
 07 Model-View-Controller
+
+07 Model-View-Controller-in-files
